@@ -1,0 +1,6 @@
+.fondo-banner {
+  /* gradient dd903f to fbbf51 */
+  background: #dd903f; /* Old browsers */
+  background: linear-gradient(to bottom, #dd903f 0%, #fbbf51 100%); /* W3C */
+  height: 100%;
+}
